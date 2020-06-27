@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.ts",
-    "build": "webpack --mode production",
+    "build": "webpack",
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
