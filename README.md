@@ -24,6 +24,10 @@ My reason for selecting this stack is I am bundling the server and client into a
 
 Running `npm run start` spins up the server on port 9000 in development mode. The graphQL API and playground is then available at at http://localhost:9000/api
 
+### Client
+
+The client repo is at https://github.com/neil-mills/dwp-tech-test-client
+
 ### Hosted application
 
-The application has been deployed to Heroku at http://
+The application has been deployed to Heroku at https://dwp-tech-test.herokuapp.com/
