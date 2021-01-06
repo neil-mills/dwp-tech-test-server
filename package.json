@@ -18,7 +18,7 @@
   "dependencies": {
     "apollo-server-express": "^2.15.0",
     "app-root-path": "^3.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "geolib": "^3.3.1",
     "graphql": "^15.1.0",
